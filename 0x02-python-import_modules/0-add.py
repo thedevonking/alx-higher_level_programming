@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-# Import simple functions from the file
+# Import a simple function from a simple file
 if __name__ == "__main__":
-    fron add_0 import add
+    from add_0 import add
     a = 1
     b = 2
     result = add(a, b)
